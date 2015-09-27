@@ -1,0 +1,11 @@
+{
+  "version": "1.5.3",
+  "upstream": {
+    "git": "https://github.com/adamwdraper/Numeral-js.git",
+    "release": "1.5.3",
+    "versionFile": "package.json"
+  },
+  "hook": {
+    "repoFullName": "adamwdraper/Numeral-js"
+  }
+}
