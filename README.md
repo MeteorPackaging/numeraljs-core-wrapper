@@ -5,7 +5,7 @@
 See it on [Atmosphere](https://atmospherejs.com/):
 [numeral:numeral](https://atmospherejs.com/numeral/numeral)
 
-Installation
+## Installation
 
 With Meteor 1.0.1 and above, install using:
 
@@ -19,6 +19,6 @@ if you need also languages support see [numeral:languages](https://atmospherejs.
 $ meteor add numeral:languages
 ```
 
-Documentation
+## Documentation
 
 See [numeraljs.com](http://numeraljs.com/).
