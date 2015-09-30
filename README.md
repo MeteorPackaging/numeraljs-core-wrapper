@@ -1,6 +1,6 @@
 # Meteor Numeral-js
 
-[https://github.com/adamwdraper/Numeral-js](Numeral-js) packaged for Meteor.
+[Numeral-js](https://github.com/adamwdraper/Numeral-js) packaged for Meteor.
 
 See it on [Atmosphere](https://atmospherejs.com/):
 [numeral:numeral](https://atmospherejs.com/numeral/numeral)
@@ -13,7 +13,7 @@ With Meteor 1.0.1 and above, install using:
 $ meteor add numeral:numeral
 ```
 
-if you need also languages support see [numeral:languages](https://atmospherejs.com/numeral/languages) and run
+If you need also languages support, see [numeral:languages](https://atmospherejs.com/numeral/languages) and run
 
 ```shell
 $ meteor add numeral:languages
